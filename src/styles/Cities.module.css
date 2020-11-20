@@ -1,0 +1,37 @@
+.cities{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 100px;
+}
+.els {
+    display: flex;
+}
+.el {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    vertical-align: center;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+.el a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.el a:hover{
+    text-shadow: 2px 3px 4px #000;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
