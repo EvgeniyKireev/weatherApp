@@ -1,6 +1,10 @@
 # Ограничение по апи
 
 Некоторые сервисы, использованные в данном проекте, имеют ограничение на количество запросов к серверу, пожалуйста учитывайте это при проверке
+Использовал сервисы:
+https://developer.accuweather.com/
+https://openweathermap.org/api
+https://yandex.ru/dev/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
