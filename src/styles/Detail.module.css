@@ -31,3 +31,10 @@
     font-size: 20px;
     font-weight: bold;
 }
+.notFound {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
