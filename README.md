@@ -1,3 +1,5 @@
+#Ограничение по апи
+некоторые сервисы, использованные в данном проекте, имеют ограничение на количество запросов к серверу, пожалуйста учитывайте это при проверке
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
